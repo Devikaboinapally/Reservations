@@ -1,0 +1,2 @@
+C:\Users\Akansha\source\repos\WebApp\WebApp\obj\Release\WebApp.csproj.AssemblyReference.cache
+C:\Users\Akansha\source\repos\WebApp\WebApp\obj\Release\WebApp.csproj.CoreCompileInputs.cache
